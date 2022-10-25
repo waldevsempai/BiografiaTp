@@ -1,0 +1,43 @@
+*{
+    background-color: rgb(32,47,114);
+    color: rgb(18, 172, 120);
+    text-align: right;
+    font-family: fantasy;
+}
+
+
+#imgPerfil{
+    position: absolute;
+    left: 900px;
+    right: 500px;
+    width: 400px;
+    height: 450px;
+    border-radius: 100%;
+    border:solid 10px;
+    border-color: rgb(rgb(207, 90, 90), rgb(80, 189, 80), rgb(51, 51, 150));
+}
+
+h2{
+    margin-right: 5%;
+    font-size: 300%;
+}
+
+.titulos{
+    text-align: center;
+    font-size: 200%;
+    font-style: italic;
+}
+
+#biografia{
+    text-align: left;
+    width: 750px;
+    height: 450px;
+}
+
+#biografia{
+    display: block;
+}
+
+#filmografia{
+    display: inline;
+}
